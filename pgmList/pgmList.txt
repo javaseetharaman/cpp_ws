@@ -5,7 +5,7 @@
 5. Print whether the given string is Pallindrom or not.  Repeat the entire program using WHILE loop till the user enter 'N' or 'n'.
 6. Using double dimentional arrays and Nested FOR loop to add two 3x3 matrices.
 7. Find atleast one root for this equation using loop x^2-5x+6=0
-8. Print square of odd numbers between 1 to n.
+8. Print square of odd numbers and qube of even numbers between 1 to n.
 9. Print the number of characters in given string including spaces
 10. Using SWITCH CASE, print whether the given char is vowel, consonent, number or not
 11. Print sum of digits in given 5 digit number
@@ -17,4 +17,4 @@
 * * * 
 * * * * 
 * * * * * 
-15.
+15. 
